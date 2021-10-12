@@ -1,0 +1,23 @@
+.caja {
+    margin: 10px;
+}
+
+.h1 {
+    color: favcolor;
+}
+
+.card {
+    margin: 20px;
+}
+
+#espacio {
+    width: 560px;
+    display: block;
+    margin: 0 auto;
+    background-color: red;
+}
+
+#favcolor {
+    display: block;
+    margin: 0 auto;
+}
